@@ -1,0 +1,18 @@
+.pied {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+.pied a {
+  font-size: 30px;
+  color:  #6276e4;
+}
+
+.pied p {
+  color: #6B6C6C;
+}
+
+.pied .fas {
+  color: #BF0F12;
+}
